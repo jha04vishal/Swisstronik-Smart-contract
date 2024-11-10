@@ -15,3 +15,6 @@ npx hardhat ignition deploy ./ignition/modules/Lock.js
 "# Swisstronik-Smart-contract" 
 "# Swisstronik-Smart-contract" 
 "# Swisstronik-Smart-contract" 
+"# Swisstronik-Smart-contract" 
+"# Swisstronik-Smart-contract" 
+"# Swisstronik-Smart-contract" 
